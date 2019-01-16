@@ -6,7 +6,7 @@ Brayden
 Jon Wendt
   Skills :
 	1. OOL : C#, C++, Java
-	2. Frontend : HTML, CSS, AngularJS, Razor
+	2. Frontend : HTML, CSS, MVC, AngularJS, Razor
 	3. Database: SQL (Beginner)
   
 Josh Robbins
