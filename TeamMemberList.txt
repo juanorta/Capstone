@@ -19,6 +19,6 @@ Juan
   
 Zac Chambers
   Skills :
-    1.  Database : Design, Administration, SQL, Procedures, CDC, ETL
+    1.  Database : Design, Administration, SQL, Procedures, CDC, ETL, SQL Server, mySQL, PostgreSQL
     2.  Object Oriented Languages : C++,  Java,  Python
     3.  Basic Cloud Knowledge : Google Cloud Platform,  Amazon Web Services
