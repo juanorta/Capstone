@@ -3,8 +3,11 @@ Team Member List
 Brayden
   Skills :
     
-Jon
+Jon Wendt
   Skills :
+	1. OOL : C#, C++, Java
+	2. Frontend : HTML, CSS, AngularJS, Razor
+	3. Database: SQL (Beginner)
   
 Josh Robbins
   Skills :
