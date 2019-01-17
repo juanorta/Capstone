@@ -17,8 +17,12 @@ Josh Robbins
     4. Database : SQL/mySQL
     5. Technology : Blockchain setup + deployment, basic Machine Learning
   
-Juan
+Juan Orta
   Skills :
+  1. OOL : C++, C#, Java, Python, Objective-C
+  2. Mobile Development (beginner): iOS
+  3. Desktop App Development : WinForm, .NET Framework
+  4. Basic Front-end knowledge: HTML, CSS
   
 Zac Chambers
   Skills :
